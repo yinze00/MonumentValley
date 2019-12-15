@@ -2,6 +2,6 @@
 
 试玩地址如下
 
-https://hypnosnova.github.io/MonumentValley/gallery/1.html
+https://yinze00.github.io/MonumentValley/gallery/1.html
 
-https://hypnosnova.github.io/MonumentValley/gallery/2.html
+https://yinze00.github.io/MonumentValley/gallery/2.html
